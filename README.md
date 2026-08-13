@@ -1,5 +1,7 @@
 # fifa-2026-fan-intelligence-platform
 
+How can FIFA use match, ticketing, and digital-product data to understand fan demand, increase ticket conversion, and improve the World Cup fan experience?
+
 ## Phase 1: Data discovery and modeling
 
 ### Step 1: Define the Business Scenario
